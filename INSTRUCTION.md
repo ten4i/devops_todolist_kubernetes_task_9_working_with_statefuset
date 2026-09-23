@@ -1,5 +1,5 @@
 1. Create cluster first
-`kind create cluster --config cluster.yml`
+`kind create cluster --config .infrastructure/cluster.yml`
 
 2. Run
 ```
